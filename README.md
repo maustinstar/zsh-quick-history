@@ -1,4 +1,4 @@
-# Zsh Quick History
+# Zsh Quick History 🔍
 
 Quickly preview and execute terminal commands with zsh-quick-history.
 
@@ -8,14 +8,14 @@ Quickly preview and execute terminal commands with zsh-quick-history.
 
 ## Installation
 
-### Manual
+### Manual 🛠️
 
 * **IMPORTANT: Replace `path/to/repo` with your own filepath preferance**
 * clone this repository `git clone https://github.com/maustinster/zsh-quick-history.git ~/path/to/repo`
 * add `source ~/path/to/repo/zsh-quick-history.zsh` to `~/.zshrc`
 * relaunch the terminal (restart the app, or run `source ~/.zshrc`)
 
-### Homebrew
+### Homebrew 🍺
 
 Not currently available.
 
@@ -29,3 +29,7 @@ To quickly execute a command, create a key binding to `quick-history-execute` in
 # Esc, Return to quickly execute history
 bindkey '^[^M' quick-history-execute
 ```
+
+## Want to improve your Zsh and Vim proficiency? 📚💭
+
+Join me [on Discord](https://discord.gg/NvKHnBuHJs)!
