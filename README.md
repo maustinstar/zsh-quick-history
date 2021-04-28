@@ -4,7 +4,7 @@ Quickly preview and execute terminal commands with zsh-quick-history.
 
 ## Preview
 
-![Quick History Demo](https://github.com/maustinstar/zsh-quick-history/blob/master/zsh-quick-history.gif?raw=true)
+![Quick History Demo](https://github.com/maustinstar/zsh-quick-history/blob/main/images/zsh-quick-history-preview.gif)
 
 ## Installation
 
